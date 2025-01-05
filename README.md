@@ -1,6 +1,8 @@
 # OSEP-Everything
 Everything from my OSEP study.
 
+Not fully complete, still adding stuff as I go
+
 I would advise going through the OSEP study material and learning how to do things the way they teach in the course. Then use some of these tools to learn how to do it faster. 
 
 ## [Active Directory](/Active%20Directory/)
@@ -9,6 +11,9 @@ Tools for AD enumeration and exploitations
 Unconstrained, Constrained, Resource Based Constrained.
 ### [LAPS](/Active%20Directory/LAPS/)
 LAPS stuff
+
+### [Relay](/Active%20Directory/Relay/)
+Relay stuff
 
 ## [AMSI](/AMSI/)
 Contiains my AMSI bypass
