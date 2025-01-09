@@ -9,7 +9,7 @@ NOTE: As of now supersharpshooter doesn't work with the --payload of hta. You ha
 
 `./SuperSharpShooter.py --stageless --dotnetver 4 --rawscfile ~/OSEP/rawsc.bin --payload js --output test`
 
-Generate HTA python script from @emvee_nl on discord:
+Generate HTA python script from [@emvee_nl](https://github.com/emvee-nl):
 
 generateHTA.py
 

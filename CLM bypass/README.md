@@ -24,6 +24,8 @@ load powershell may not work if AV is still on. UnmanagedPowershell should work.
 
 Use donut as shown in the video from the repo to generate the shellcode.
 
+`./donut -i /tmp/UnmanagedPowerShell.exe -o /home/kali/tools/Windows/UnmanagedPS.bin`
+
 In meterpreter:
 ```
 bg
